@@ -16,4 +16,4 @@
 <a href="https://discord.com/users/726366996790509618" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/889965765057466418.png" high="25px" width="40px"> © B4</h1>
+<h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/889965765057466418.png" high="25px" width="40px">B4</h1>
