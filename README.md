@@ -1,5 +1,5 @@
 
-## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=byzasn&label=Numbers%20of%20visitors&color=ff4600" alt="byzasn" />
+## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=byzasn&label=Numbers%20of%20visitors&color=ff4600" alt="b4" />
 
 - ⭐ Merhaba ben B4 , 17 yaşındayım. Yaklaşık dört yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#0001](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
 
