@@ -3,10 +3,6 @@
 
 - ⭐ Merhaba ben B4 , 17 yaşındayım. Yaklaşık dört yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#0001](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
 
-
- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/726366996790509618?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/726366996790509618)
-
 ## 🔧 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
