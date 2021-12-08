@@ -1,7 +1,7 @@
 
 ## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=bahadironline&label=Numbers%20of%20visitors&color=ff4600" alt="b4" />
 
-- ⭐ Merhaba ben B4 , 17 yaşındayım. Yaklaşık dört yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#0001](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
+- ⭐ Merhaba ben Bahadır , 17 yaşındayım ve Türkiye'de yaşıyorum. Yaklaşık dört yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#0001](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
 
 ## 🔧 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
