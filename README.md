@@ -1,6 +1,6 @@
 <h3> B4 <h3>
 </h1>
-Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni B4#2378 ismiyle bulabilirsiniz. Görüşmek üzere , B4...
+Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son iki senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni B4#2378 ismiyle bulabilirsiniz. Görüşmek üzere , B4...
 <br></br>
 
 <div align="center">
