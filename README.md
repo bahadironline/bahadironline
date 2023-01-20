@@ -1,16 +1,34 @@
+<h3> B4 <h3>
+</h1>
+Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#2378](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
+<br></br>
 
-## Hello Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px"> <img src="https://komarev.com/ghpvc/?username=bahadironline&label=Numbers%20of%20visitors&color=ff4600" alt="b4" />
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ardajs&color=ED4245"/>
+</div>
+<div align="center">
+   <a href="https://discord.com/users/920366542531743797" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
+   </a>
+</div>
+</div>
 
-- ⭐ Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#2378](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
+## Tecnhologies:
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind&theme=dark" />
 
-## 🔧 Languages and Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Connect with me:
+<div>
+   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://twitter.com/bahadiroffline"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://discord.com/users/726366996790509618"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+   <a href="https://github.com/bahadironline/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+</div>
 
-## 📱 Social Media Accounts
-<p align="left">
-<a href="https://www.twitch.tv/akab4" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://discord.com/users/726366996790509618" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+## Github Stats:
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ardajs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardajs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
