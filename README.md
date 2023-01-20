@@ -18,17 +18,9 @@ Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord 
 
 ## Connect with me:
 <div>
-   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-   <a href="https://twitter.com/bahadiroffline"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://instagram.com/bahadironline"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://twitter.com/aglasanabir"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
    <a href="https://discord.com/users/726366996790509618"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
    <a href="https://github.com/bahadironline/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 </div>
-
-## Github Stats:
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ardajs&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardajs&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
