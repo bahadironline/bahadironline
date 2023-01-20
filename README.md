@@ -4,7 +4,7 @@ Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord 
 <br></br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ardajs&color=ED4245"/>
+    <img src="https://komarev.com/ghpvc/?username=bahadironline&color=ED4245"/>
 </div>
 <div align="center">
    <a href="https://discord.com/users/726366996790509618" target="_blank">
