@@ -1,13 +1,13 @@
 <h3> B4 <h3>
 </h1>
-Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni **[B4#2378](https://discord.com/users/726366996790509618)** ismiyle bulabilirsiniz. Görüşmek üzere , B4...
+Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord kullanıyorum.Son bir senede Discord (JS) botları ile ilgileniyorum, kendimi geliştirmeye çalışıyorum.Discord üzerinde beni B4#2378 ismiyle bulabilirsiniz. Görüşmek üzere , B4...
 <br></br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ardajs&color=ED4245"/>
 </div>
 <div align="center">
-   <a href="https://discord.com/users/920366542531743797" target="_blank">
+   <a href="https://discord.com/users/726366996790509618" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
 </div>
