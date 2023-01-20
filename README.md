@@ -10,7 +10,7 @@ Merhaba ben Bahadır. Türkiye'de yaşıyorum. Yaklaşık beş yıldır Discord 
    <a href="https://discord.com/users/726366996790509618" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/726366996790509618?bg=111111">
    </a>
-</div>
+</div>s
 </div>
 
 ## Tecnhologies:
