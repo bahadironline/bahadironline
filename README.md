@@ -1,6 +1,5 @@
 <h3> B4 <h3>
 </h1>
-Hello, I am Bahadır. I live in Turkey. I have been using Discord for about five years. In the last two years, I have been interested in Discord (JS) bots and trying to improve myself. You can find me on Discord with the username B4#2378.
 <br></br>
 
 <div align="center">
