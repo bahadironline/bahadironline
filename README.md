@@ -1,10 +1,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=bahadironline&color=ED4245"/>
 </div>
-<div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/726366996790509618)](https://discord.com/users/726366996790509618)
-</div>
-
 ## 🔧 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
