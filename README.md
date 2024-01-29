@@ -1,7 +1,3 @@
-<h3> B4 <h3>
-</h1>
-<br></br>
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=bahadironline&color=ED4245"/>
 </div>
