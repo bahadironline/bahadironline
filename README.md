@@ -2,10 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=bahadironline&color=ED4245"/>
 </div>
 <div align="center">
-   <a href="https://discord.com/users/726366996790509618" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/726366996790509618?bg=111111">
-   </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/726366996790509618)](https://discord.com/users/726366996790509618)
 </div>
 
 ## 🔧 Languages and Tools
